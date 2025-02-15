@@ -1,1 +1,1 @@
-n# psychic-goggles
+yn# psychic-goggles
